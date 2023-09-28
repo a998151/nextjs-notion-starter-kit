@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Marx's Blog',
+  name: 'Marx Blog',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Marx',
 
